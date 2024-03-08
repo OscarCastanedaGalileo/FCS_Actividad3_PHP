@@ -13,9 +13,9 @@ Este proyecto incluye el codigo en lenguaje **php** y **html** junto con una ima
 - Ejecute el comando `sudo apt install apache2`para instalar apache2
 3. php
   
--Ejecute el comando `sudo apt install php libapache2-mod-php`para instalar php
+- Ejecute el comando `sudo apt install php libapache2-mod-php`para instalar php
 
--Ejecute el comando `sudo systemctl restart apache2.service` para reiniciar el servicio
+- Ejecute el comando `sudo systemctl restart apache2.service` para reiniciar el servicio
 
 4. Build-Essentials
 -Ejectute el comando `sudo apt install build-essential` para instalar el compilador Build-Essentials
